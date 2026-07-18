@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**heeahcodes/heeahcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Digital Humanities researcher interested in computational approaches to literature, culture, and language.
+Currently learning Python, Data Analysis, and NLP while building projects in text processing, visualization, and digital scholarship. My long-term goal is to contribute to research at the intersection of the humanities and computing.
 
-Here are some ideas to get you started:
+### Current interests
+- Digital Humanities
+- Computational Literary Studies
+- NLP
+- Text Mining & Corpus Linguistics
+- Python & Data Analytics
+- Data Visualization
+- Literary Theory & Cultural Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building in public, documenting what I learn, and creating projects that bridge technology and the humanities.
